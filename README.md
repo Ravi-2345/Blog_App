@@ -1,22 +1,32 @@
 # Blogosphere
 
 - A blogging website to create posts sharing thoughts, ideas, and experiences.
-- Just create an account and compose your own posts.
+- Just create an account and compose your own blogs.
 - Also get the collection of all of your posts in your profile.
 
 ## signup page
+![image](https://user-images.githubusercontent.com/102463812/200890223-6e0371c0-4369-4a0d-a09c-bc6183cd41ec.png)
 
 ## sign in page
+![image](https://user-images.githubusercontent.com/102463812/200890325-06a4f808-fb3a-4745-99e7-a42342e5a70d.png)
 
 ## Blogosphere homepage
+![image](https://user-images.githubusercontent.com/102463812/200890511-17f81c74-753e-4782-b7c8-02386c0ad019.png)
 
 ## User's Feed
+![image](https://user-images.githubusercontent.com/102463812/200890657-c1b9b4db-edb8-4c3f-bc4f-65272a17bc1a.png)
 
-## User's profile page
-
+## User's profile page (own)
+![image](https://user-images.githubusercontent.com/102463812/200894006-9573381d-f094-44be-b0be-74b5c0cdb27c.png)
+ Here the user can delete their blogs.
+## other user's profile page
+![image](https://user-images.githubusercontent.com/102463812/200894259-9e91b503-5440-48b1-92d9-e59a2b0f2da2.png)
+Here the user doesn't have the access to delete others posts.
 ## Compose page
+![image](https://user-images.githubusercontent.com/102463812/200893648-faefc04a-5331-4daf-953a-a3a4c4b54b71.png)
 
 ## About page 
+![image](https://user-images.githubusercontent.com/102463812/200893721-78181e36-5649-4ceb-a9cf-ef91039e5bb5.png)
 
 
 ## TECHNOLOGY USED
