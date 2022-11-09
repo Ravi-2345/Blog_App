@@ -3,6 +3,7 @@
 - A blogging website to create posts sharing thoughts, ideas, and experiences.
 - Just create an account and compose your own blogs.
 - Also get the collection of all of your posts in your profile.
+- Users can also like the posts.
 
 ## signup page
 ![image](https://user-images.githubusercontent.com/102463812/200890223-6e0371c0-4369-4a0d-a09c-bc6183cd41ec.png)
